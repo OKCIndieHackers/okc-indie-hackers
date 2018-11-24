@@ -1,24 +1,5 @@
-# README
+# OKC Indie Hackers Website
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the website for OKC Indie Hackers.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+We're a group on a mission to empower Oklahoma City's engineers, product people, designers, and makers to build indie software that can change the world. ⚡
