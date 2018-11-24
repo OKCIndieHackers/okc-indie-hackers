@@ -15,6 +15,5 @@ Now open `http://localhost:1234` to see the site.
 ## Deploy
 
 ```
-yarn build
-git subtree push --prefix dist origin gh-pages
+yarn deploy
 ```
