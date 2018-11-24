@@ -1,5 +1,5 @@
 class ApplicationController < ActionController::Base
-  def showLanding  
-    render template: "landing" 
+  def showIndex  
+    render template: "index" 
   end
 end
