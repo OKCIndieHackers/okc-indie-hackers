@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 551 75" width="551" height="75" style="max-width: 220px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="75" viewBox="0 0 495 75">
   <g fill="none" fill-rule="evenodd">
     <text fill="#FFF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="48" font-weight="bold" letter-spacing="1.5">
-      <tspan x="103.528" y="55">OKC INDIE HACKERS</tspan>
+      <tspan x="151.8" y="55">INDIE HACKER</tspan> <tspan x="469.512" y="55">S</tspan>
     </text>
-    <path fill="#FFF" fill-rule="nonzero" d="M0 0h75v75H0z"/>
+    <rect width="130" height="75" fill="#FFF" fill-rule="nonzero"/>
     <text fill="#0E2439" font-family="SourceSansPro-Black, Source Sans Pro" font-size="48" font-weight="700" letter-spacing="1.5">
-      <tspan x="12.048" y="55">IH</tspan>
+      <tspan x="17.536" y="55">OKC</tspan>
     </text>
   </g>
 </svg>
