@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 551 75" width="551" height="75" style="max-width: 220px;">
+  <g fill="none" fill-rule="evenodd">
+    <text fill="#FFF" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="48" font-weight="bold" letter-spacing="1.5">
+      <tspan x="103.528" y="55">OKC INDIE HACKERS</tspan>
+    </text>
+    <path fill="#FFF" fill-rule="nonzero" d="M0 0h75v75H0z"/>
+    <text fill="#0E2439" font-family="SourceSansPro-Black, Source Sans Pro" font-size="48" font-weight="700" letter-spacing="1.5">
+      <tspan x="12.048" y="55">IH</tspan>
+    </text>
+  </g>
+</svg>
