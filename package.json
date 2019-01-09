@@ -10,7 +10,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "dev": "parcel index.html",
+    "dev": "parcel index.html --open",
     "build": "parcel build index.html",
     "deploy": "yarn build && cp CNAME dist && gh-pages -d dist"
   },
