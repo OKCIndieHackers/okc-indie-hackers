@@ -19,9 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   We're a group on a mission to empower Oklahoma City's engineers, product people, designers, and makers to
     build indie software that can change the world.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://okcindiehackers.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://okcindiehackers.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: okcindiehackers
-github_username:  okdindiehackers
 
 # Meta Defaults for SEO Plugin
 defaults:
@@ -29,6 +28,8 @@ defaults:
       path: ""
     values:
       image: /assets/meta-image.png
+
+permalink: /blog/:title
 
 # Build settings
 markdown: kramdown
