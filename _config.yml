@@ -23,6 +23,13 @@ url: "https://okcindiehackers.com/" # the base hostname & protocol for your site
 twitter_username: okcindiehackers
 github_username:  okdindiehackers
 
+# Meta Defaults for SEO Plugin
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/meta-image.png
+
 # Build settings
 markdown: kramdown
 theme: minima
