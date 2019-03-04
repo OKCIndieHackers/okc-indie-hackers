@@ -1,9 +1,6 @@
-# Ignore uploaded files in development
-/storage/*
-!/storage/.keep
-
-/node_modules
-/yarn-error.log
-
-.cache
-/dist
+_site
+.sass-cache
+.jekyll-metadata
+/vendor
+/node_modules/
+.DS_Store
